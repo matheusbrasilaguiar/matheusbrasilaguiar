@@ -65,6 +65,13 @@ My goal is to apply this knowledge to build transparent, secure, and user-centri
 
 ---
 
+## Resume
+
+📌 You can view my full resume in Markdown format [here](./docs/resume/README.md).  
+📄 Prefer a PDF version? [Download it here](./docs/resume/Matheus-Brasil-Aguiar-Resume.pdf)
+
+---
+
 ## GitHub Stats
 
 <p align="center">
