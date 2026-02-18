@@ -11,6 +11,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matheusbrasilaguiar&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
+</p>
+
 ---
 
 ## Professional Summary
@@ -123,4 +127,8 @@ PDF version available at:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheusbrasilaguiar&show_icons=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrasilaguiar&layout=compact&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <sub>Last updated: November 2025</sub>
 </p>
