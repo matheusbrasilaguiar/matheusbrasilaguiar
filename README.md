@@ -1,92 +1,126 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00c6ff&height=240&section=header&text=Matheus%20Aguiar&fontColor=ffffff&fontSize=42&desc=Software%20Engineer&descAlign=50&descSize=18&fontAlign=50&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00c6ff&height=220&section=header&text=Matheus%20Aguiar&fontColor=ffffff&fontSize=40&desc=Software%20Engineer&descAlign=50&descSize=18&fontAlign=50&fontAlignY=35" />
 </p>
 
-
 <p align="center">
-  <a href="https://github.com/matheusbrasilaguiar">
-    <img src="https://komarev.com/ghpvc/?username=matheusbrasilaguiar&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
   <a href="https://linkedin.com/in/matheusbrasilaguiar">
-    <img src="https://img.shields.io/badge/-Matheus%20Brasil-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Aguiar-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:matheusbrasilaguiar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About Me
+## Professional Summary
 
-I'm **Matheus Brasil**, a Software Engineer focused on **Frontend Development**, currently working as a Software Development Intern at **Vallourec**.
+Software Engineer with 3+ years of professional experience building scalable applications and production systems.
 
-I work on the development of user interfaces for industrial applications — systems that support the steel tube production process. I also contribute to internal UI libraries and design system initiatives, helping ensure consistency and reusability across different projects.
+Specialized in backend and full-stack development using TypeScript ecosystems, focused on API design, distributed services, and real-world integrations involving payments, cloud infrastructure, and blockchain technologies.
 
-A key part of my work involves collaborating with UX designers and other teams to discuss business rules and requirements. This collaborative approach ensures that the interfaces I build are not only visually aligned, but also efficient, functional, and tailored to the real needs of users.
-
-My main stack includes **React**, **TypeScript**, and **Tailwind CSS**, and I'm continually improving my skills in component architecture, clean code, and scalable interface development.
-
-I'm currently exploring the intersection of **Frontend Development**, **Web3 technologies**, and **AI-driven interfaces**, aiming to evolve into a well-rounded engineer prepared for the future of software.
-
-More specifically, I'm immersing myself in the **Web3 ecosystem**, learning how to build decentralized applications and understand trustless interactions. I'm actively studying **smart contract development using Solidity**.
-
-My goal is to apply this knowledge to build transparent, secure, and user-centric interfaces that bridge the gap between emerging technologies and real-world usability.
+Currently working on educational and fintech platforms, owning the development lifecycle from architecture design to deployment and production reliability.
 
 ---
 
-## Tech Stack
+## Core Engineering Areas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,java,git,figma,vscode,docker,solidity,rust" />
+- Backend Engineering and API Design
+- Microservices Architecture
+- Distributed Systems Fundamentals
+- Cloud Integrations and CI/CD
+- Payment and Transaction Systems
+- Web3 and Blockchain Integrations
+
+---
+
+## Technology Stack
+
+**Backend**  
+Node.js · NestJS · TypeScript · .NET · Java (Spring Boot)
+
+**Frontend**  
+React · Next.js · Tailwind CSS
+
+**Data & Infrastructure**  
+PostgreSQL · Redis · Docker · AWS · Google Cloud · CI/CD
+
+**Architecture & Quality**  
+REST APIs · SOLID · Design Patterns · Automated Testing · Monorepo
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-Backend-black?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/NestJS-API-black?style=flat&logo=nestjs" />
+  <img src="https://img.shields.io/badge/TypeScript-Primary-black?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-black?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Docker-Infrastructure-black?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-black?style=flat&logo=amazonaws" />
 </p>
 
-- **Languages**: TypeScript, NestJS, Java, Rust, Solidity  
-- **Frameworks**: React, Spring Boot  
-- **Styling**: Tailwind CSS, Styled Components  
-- **Tools**: Git, Docker, Figma, Storybook  
-- **Principles**: Clean Code, Component Architecture, Design Systems
+---
+
+## Professional Work & Selected Engineering Projects
+
+### Buscar Inovar Educação
+Large-scale educational platform where I lead end-to-end software development, from architecture design to deployment and production maintenance.
+
+Key contributions:
+- Designed and implemented a type-safe backend using TypeScript and tRPC in a monorepo architecture (Turborepo)
+- Integrated critical services including payment gateways, cloud storage, transactional email, and CDN delivery
+- Modeled and optimized PostgreSQL databases with versioned migrations
+- Owned the full development lifecycle: requirements, architecture, implementation, testing, and deployment
+
+Platform:
+https://www.buscarinovar.com.br/
 
 ---
 
-## Featured Projects
+### ChatPay Go Labs
+Fintech platform focused on conversational checkout and payment automation powered by AI and blockchain infrastructure.
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**Gradify**](https://github.com/matheusbrasilaguiar/gradify) | A Web3 platform for issuing academic certificates and managing scholarships transparently | React · TypeScript · NestJS · Stellar · Soroban |
+Key contributions:
+- Built modular backend services using NestJS and Node.js
+- Implemented secure transaction architecture with PostgreSQL and Redis
+- Integrated payment APIs, AI services, and blockchain settlement (Stellar)
+- Designed CI/CD pipelines and containerized infrastructure using Docker
+- Implemented automated testing ensuring reliability for financial operations
+
+Platform:
+https://chatpaygolabs.com/
 
 ---
 
-## Currently Learning / Building
+### Gradify (Personal Project)
+Platform for issuing verifiable academic certificates and managing scholarships through blockchain infrastructure.
 
-- Solidity and Smart Contracts
-- Modular UI Systems with Tailwind + Storybook
-- Tokenized academic credentials (Gradify)
+Tech stack:
+TypeScript · NestJS · React · Stellar · Soroban
+
+Repository:
+https://github.com/matheusbrasilaguiar/gradify
+
+
+---
+
+## Current Focus
+
+- Scalable backend architecture
+- System design and performance
+- Blockchain infrastructure and tokenization
+- High-reliability API development
 
 ---
 
 ## Resume
 
-📌 You can view my full resume in Markdown format [here](./docs/resume/README.md).  
-📄 Prefer a PDF version? [Download it here](./docs/resume/Matheus-Brasil-Aguiar-Resume.pdf)
+PDF version available at:
+./docs/resume/Matheus-Brasil-Aguiar-Resume.pdf
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusbrasilaguiar&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=matheusbrasilaguiar&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusbrasilaguiar&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrasilaguiar&layout=compact&hide_border=true" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusbrasilaguiar&theme=react-dark&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheusbrasilaguiar&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
----
-
-_Last updated: June 17, 2025_

@@ -1,76 +1,103 @@
-# Matheus Brasil Aguiar  
-**Full Stack Developer | React.js & Java Spring**  
-📍 Belo Horizonte – Brazil | Remote-ready  
-📞 +55 (31) 99975-0433  
-📧 matheusbrasilaguiar@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/matheusbrasilaguiar)  
-🔗 [GitHub](https://github.com/matheusbrasilaguiar)
+# Matheus Brasil Aguiar
+
+Backend / Full-Stack Software Engineer  
+Belo Horizonte, Brazil
+
+Email: matheusbrasilaguiar@gmail.com  
+LinkedIn: https://www.linkedin.com/in/matheusbrasilaguiar/  
+GitHub: https://github.com/matheusbrasilaguiar
 
 ---
 
 ## Professional Summary
 
-Full Stack Developer with hands-on experience building modern applications using **React.js** on the frontend and **Java with Spring Boot** on the backend. Skilled in designing **RESTful APIs**, developing **functional components**, and applying **state management** and **CSS styling** best practices. Knowledgeable in **PostgreSQL**, **CI/CD pipelines** with GitLab, and working within collaborative Agile teams. Currently contributing to distributed industrial systems at **Vallourec**, with a strong focus on **code quality**, **testing**, and **scalable architecture**. Pursuing a Bachelor’s degree in Software Engineering at **PUC Minas** (expected 2026).
+Software Engineer with 3+ years of professional experience designing and building scalable applications and production systems.
+
+Specialized in backend development using Node.js, NestJS, and TypeScript, with strong experience in microservices architecture, complex integrations, and full-stack product development.
+
+Experienced in owning the full software lifecycle — from system architecture and prototyping to deployment, monitoring, and technical documentation.
+
+Core focus areas include reliability, performance, clean architecture, and delivering measurable business impact.
 
 ---
 
 ## Professional Experience
 
-### Software Development Intern  
-**Vallourec Tubular Solutions**  
-Belo Horizonte, Brazil — *Oct 2023 – Present*
+### Backend / Full-Stack Software Engineer  
+**Buscar Inovar Educação** — Remote  
+Nov 2025 – Present
 
-- Developed backend services and REST APIs using **Java Spring Boot** in a distributed microservices environment.
-- Built and maintained frontend applications with **React.js**, leveraging functional components and scoped CSS styling.
-- Worked with **PostgreSQL** for data persistence and backend logic.
-- Contributed to internal **UI libraries** and **design system** components.
-- Participated in Agile ceremonies, GitLab version control, and **CI/CD pipelines**.
-- Ensured code quality and observability using **SonarQube**, **Prometheus**, and **Grafana**.
+- Lead end-to-end development of a large-scale educational platform
+- Designed type-safe backend architecture using TypeScript and tRPC in a Turborepo monorepo
+- Integrated payment gateways, cloud storage, transactional email services, and CDN infrastructure
+- Designed and optimized PostgreSQL database schemas and migrations
+- Managed architecture decisions, implementation, testing, deployment, and documentation
 
----
-
-### IT Intern – IT Analyst  
-**Instituto Plástica Dei**  
-Mar 2023 – Sep 2023
-
-- Provided IT support and helped implement healthcare systems.
-- Supported website development and infrastructure maintenance.
-- Collaborated with internal teams to optimize IT processes.
+Platform: https://www.buscarinovar.com.br/
 
 ---
 
-### Marketing Assistant  
-**DM Créditos**  
-Nov 2019 – Sep 2022
+### Backend / Full-Stack Software Engineer  
+**ChatPay Go Labs** — Remote  
+Jul 2025 – Present
 
-- Created digital content and ran social media and email campaigns.
-- Designed visual materials using **Photoshop**, **Illustrator**, and **Canva**.
-- Built websites using **WordPress**.
+- Developed backend services for conversational checkout and payment automation
+- Built modular architecture using NestJS and Node.js
+- Implemented secure transaction workflows using PostgreSQL and Redis
+- Integrated AI services, payment providers, and blockchain settlement (Stellar)
+- Designed Docker-based infrastructure and CI/CD pipelines
+- Implemented automated testing using Jest
+
+Platform: https://chatpaygolabs.com/
 
 ---
 
-## Academic Background
+### Software Engineering Intern  
+**Vallourec Tubular Solutions Brazil** — Belo Horizonte, Brazil  
+Oct 2023 – Oct 2025
 
-**Bachelor's Degree in Software Engineering**  
-Pontifical Catholic University of Minas Gerais – PUC Minas  
-Expected Graduation: Jul 2026 | Belo Horizonte, Brazil
+- Developed internal industrial applications using React and TypeScript supporting steel tube production operations
+- Contributed to the company-wide design system, improving UI consistency and component reuse across multiple applications
+- Built and maintained REST APIs using C# (.NET) and Java (Spring Boot)
+- Collaborated with cross-functional teams to evolve internal systems and improve operational workflows
+- Participated in the full software lifecycle including development, maintenance, and system evolution
+
+Company:
+https://brazil.vallourec.com/
+
 
 ---
 
 ## Technical Skills
 
-- **Frontend:** React.js, JavaScript, HTML, CSS, Angular  
-- **Backend:** Java (Spring Boot), C# (.NET)  
-- **State Management:** Redux (basic knowledge)  
-- **Databases:** PostgreSQL, MySQL  
-- **DevOps & Tools:** GitLab CI/CD, Docker, Kubernetes, Git, REST APIs  
-- **Monitoring & Quality:** SonarQube, Prometheus, Grafana, ELK Stack  
-- **Cloud:** Familiar with Google Cloud Platform (GCP)  
-- **Other:** Agile/Scrum, Software Documentation, Team Collaboration  
+### Backend
+Node.js · NestJS · TypeScript · Express · .NET · Java (Spring Boot)
+
+### Frontend
+React · Next.js · Tailwind CSS
+
+### Databases
+PostgreSQL · MongoDB · Redis · Prisma · TypeORM
+
+### DevOps & Cloud
+Docker · CI/CD · AWS · Google Cloud · Linux · Vercel
+
+### Architecture & Quality
+REST APIs · Microservices · SOLID · Design Patterns · Automated Testing · TDD
+
+---
+
+## Education
+
+Bachelor’s Degree in Software Engineering  
+PUC Minas — Expected graduation: Dec 2026
+
+Specialization in Blockchain Technology and Smart Contract Security  
+NearX — 2025 – Present
 
 ---
 
 ## Languages
 
-- **Portuguese:** Native  
-- **English:** Fluent / Professional Proficiency  
+Portuguese — Native  
+English — Fluent
